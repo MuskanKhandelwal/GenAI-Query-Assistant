@@ -1,7 +1,7 @@
 # GenAI-Query-Assistant
 
 ## Overview
-PineconeLlama-Research-Assistant is an advanced AI research project that combines the power of Cohere embeddings, Pinecone vector store, and the Llama language model to analyze and understand research paper effectively. This project aims to leverage state-of-the-art AI technologies to provide deep insights and long-term memory capabilities for processing and querying research documents.
+GenAI-Query-Assistant combines the power of Cohere embeddings, Pinecone vector store, and the Llama language model to analyze and understand research paper effectively. This project aims to leverage state-of-the-art AI technologies to provide deep insights and long-term memory capabilities for processing and querying research documents.
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -44,11 +44,11 @@ The project architecture consists of the following components:
 To install and set up the project, follow these steps:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/MuskanKhandelwal/PineconeLlama-Research-Assistant
+    git clone https://github.com/MuskanKhandelwal/GenAI-Query-Assistant
     ```
 2. Navigate to the project directory:
     ```sh
-    cd PineconeLlama-Research-Assistant
+    cd GenAI-Query-Assistant
     ```
 3. Install the required dependencies:
     ```sh
