@@ -1,0 +1,16 @@
+langchain_openai
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas 
+numpy
+python-dotenv
+torch
+transformers
+sentencepiece
+langchain-cohere
+ctransformers
+langchain_pinecone
