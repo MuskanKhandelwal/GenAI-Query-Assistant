@@ -54,6 +54,7 @@ To install and set up the project, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
+4. You can download the desired model in models folder or can use the variety of models available with Ollama
 
 ## Usage
 1. Set up your Pinecone API key:
